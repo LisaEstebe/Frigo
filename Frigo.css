@@ -1,0 +1,28 @@
+body {
+  background: #eeeeee;
+}
+
+h1 {
+  text-align: center;
+}
+
+div.frigo {
+  display: block;
+}
+
+div.frigo p {
+  background: #555555;
+  border-radius: 4px;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 5px 5px 5px 5px;
+}
+
+div.frigo p a {
+  display: none;
+  line-height: 80px;
+  height: 80px;
+  text-align: center;
+} // ne pas afficher les label des ancres */
